@@ -4,7 +4,7 @@ Systems Administrator working across Microsoft 365, Entra ID, Intune and Windows
 
 I build realistic labs to practise the work sysadmins do every day: identity and user lifecycle, endpoint management, monitoring, service desk operations, networking, backup and security. I document each one so it can be reproduced.
 
-**Open to:** Systems Administrator, Microsoft 365, Endpoint, Identity and Access, IT Infrastructure, Cloud Support, CloudOps and L2/L3 Technical Support roles in Ireland.
+**Open to:** Systems Administrator, Microsoft 365, Endpoint, Identity and Access, IT Infrastructure, Cloud Engineer, Cloud Support, CloudOps, DevOps and L2/L3 Technical Support roles in Ireland or remote (EU/US).
 
 ## Featured projects
 
